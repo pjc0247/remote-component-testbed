@@ -1,5 +1,7 @@
 # remote-component-testbed
 
+A simple Proof-of-Concept project that fetches React component from network and renders it.
+
 ```tsx
 import { RemoteComponent } from './RemoteComponent';
 
