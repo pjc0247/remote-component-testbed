@@ -22,3 +22,5 @@ export default function App() {
   );
 };
 ```
+
+<img src="preview.jpg" width="300px" />
