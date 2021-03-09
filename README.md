@@ -2,6 +2,8 @@
 
 A simple Proof-of-Concept project that fetches React component from network and renders it.
 
+* RemoteComponent is able to communicate between other (App)components using `props` or `Context` since it's basically pure react workflow.
+
 ```tsx
 import { RemoteComponent } from './RemoteComponent';
 
